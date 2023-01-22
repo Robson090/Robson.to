@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: rgb(250, 235, 215);
+  margin: 50px;
+}
+h1 {
+  color: rgb(48, 48, 48);
+  font-family: "Rye", cursive;
+}
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(72, 72, 72);
+}
+a {
+  color: rgb(72, 72, 72);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: rgb(156, 109, 47);
+}
